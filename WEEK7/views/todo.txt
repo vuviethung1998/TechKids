@@ -1,0 +1,4 @@
+//btn cau hoi khac
+btn ket qua
+bt sai 
+btn dung

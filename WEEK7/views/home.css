@@ -1,0 +1,46 @@
+#text_question {
+    margin-top: 60px;
+  }
+  #btn_answer {
+    margin-top: 60px;
+  }
+  #btn_chuyen {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+  }
+  #text_vote {
+    margin-top: 60px;
+  }
+  #question_result_yes {
+    padding: 7px 0;
+    text-align: center;
+    color: #ffffff;
+    float: left;
+  }
+  #question_result_no {
+    padding: 7px 0;
+    text-align: center;
+    color: #ffffff;
+    float: left;
+  }
+  #btnChuyen {
+    width: 120px;
+  }
+  #ketquavote,#cauhoikhac {
+    width: 120px;
+  }
+  .result_bar {
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .question_result_no {
+    background: #d9534f;
+  }
+  .question_result_yes {
+    background: #337ab7;
+  }
+  .btn_xemcauhoikhac {
+    margin-top: 60px;
+  }
+  
