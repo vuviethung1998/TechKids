@@ -1,13 +1,8 @@
-label {
-    display: block;
-    font: 1rem 'Fira Sans', sans-serif;
+#submitName {
+    background-color: #BF1363;
 }
 
-input,
-label {
-    margin: .4rem 0;
-}
-
-.note {
-    font-size: .8em;
+#btn_chuyen {
+    display: flex;
+    justify-content: center;
 }
