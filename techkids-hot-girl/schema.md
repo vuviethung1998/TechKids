@@ -1,0 +1,15 @@
+-Post:
+    -view
+    -createTime
+    -image
+    -like
+    -author
+    -comment
+    -title 
+    -description
+-User:
+    -usrname
+    -password
+    -email
+    -phone
+    -fullname
